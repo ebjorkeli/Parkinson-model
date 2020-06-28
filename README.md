@@ -1,2 +1,2 @@
 # Parkinson-model
-A Wilson-Cowen type model for Parkinson's disease
+Includes a Jupyter notebook with a Wilson-Cowen type model for Parkinson's disease (cortico-thalamo-basal ganglia circuit).
